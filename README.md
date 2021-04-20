@@ -14,9 +14,8 @@ Before running the tool go https://myaccount.google.com/security and turn on acc
 
 #Photo 
 
-![alt](image)
-alt: Afshin Ataei
-image:screen.png
+![alt](screen.jpg)
+
 
 # Contact us
 
