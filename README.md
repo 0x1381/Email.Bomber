@@ -12,7 +12,7 @@ python3 Email-Bomb.py
 
 Before running the tool go https://myaccount.google.com/security and turn on access applications with less security
 
-#Photo 
+# Photo 
 
 ![alt](screen.jpg)
 
