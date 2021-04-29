@@ -1,7 +1,7 @@
 # login to your email
 
 
-# Obfuscated with PyObfx #
+# Afshin Ataei
 import smtplib as eVrhZPqLIvFdpx
 import sys as TPqXsB
 from termcolor import colored as lkCsHyKfiuqRXh
