@@ -7,7 +7,8 @@
   <a href="https://github.com/afshinataei/Email.Bomber/search?l=python">
     <img src="https://img.shields.io/badge/language-python-blue?color=FF69B4" alt="Python" />
   </a>
-  <a 
+  </p>
+  
 
 
 
@@ -15,7 +16,7 @@
 
 
 
-# How to use 
+# How to use
 
 git clone https://github.com/afshinataei/Email.Bomber/
 
