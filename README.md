@@ -1,7 +1,19 @@
 <p align="center">
   <h1 align="center">😈Emailspam😈</h1>
 </p>
-# Email.Bomber
+
+
+<p align="center">
+  <a href="https://github.com/afshinataei/Email.Bomber/search?l=python">
+    <img src="https://img.shields.io/badge/language-python-blue?color=FF69B4" alt="Python" />
+  </a>
+  <a 
+
+
+
+
+
+
 
 # How to use 
 
