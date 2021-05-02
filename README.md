@@ -1,3 +1,6 @@
+<p align="center">
+  <h1 align="center">😈 Email spam 😈</h1>
+</p>
 # Email.Bomber
 
 # How to use 
