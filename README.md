@@ -8,6 +8,13 @@
     <img src="https://img.shields.io/badge/language-python-blue?color=FF69B4" alt="Python" />
   </a>
   </p>
+
+<p align="center">
+  <a href="https://t.me/IR_localhost">
+    <img src="https://img.shields.io/badge/My-Telegram-blue?color=f20a0a " alt="Telegram" />
+  </a>
+  </p>
+
   
 
 
