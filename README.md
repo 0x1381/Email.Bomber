@@ -29,7 +29,7 @@ git clone https://github.com/afshinataei/Email.Bomber/
 
 cd Email.Bomber
 
-python3 Email-Bomb.py 
+python3 Email_Bomber.py
 
 # Note 
 
