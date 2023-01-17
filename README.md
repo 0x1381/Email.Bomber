@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">😈Emailspam😈</h1>
+  <h1 align="center">Emailspam</h1>
 </p>
 
 
