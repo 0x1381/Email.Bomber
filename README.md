@@ -42,4 +42,4 @@ Before running the tool go https://myaccount.google.com/security and turn on acc
 
 # Contact us
 
-Telegram : @IR_localhost
+Telegram : @ZEROX1381
