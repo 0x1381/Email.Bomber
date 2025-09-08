@@ -35,11 +35,6 @@ python3 Email_Bomber.py
 
 Before running the tool go https://myaccount.google.com/security and turn on access applications with less security
 
-# Photo 
-
-![alt](screen.jpg)
-
-
 # Contact us
 
-Telegram : @ZEROX1381
+Telegram : X_Afshin
