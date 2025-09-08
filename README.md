@@ -10,7 +10,7 @@
   </p>
 
 <p align="center">
-  <a href="https://t.me/ZEROX1381">
+  <a href="https://t.me/X_Afshin">
     <img src="https://img.shields.io/badge/My-Telegram-blue?color=f20a0a " alt="Telegram" />
   </a>
   </p>
